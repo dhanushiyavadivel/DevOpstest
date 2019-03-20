@@ -1,0 +1,2 @@
+#define number 10
+
